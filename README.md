@@ -9,4 +9,5 @@ It's not an exhaustive example, but should point you in the right direction.
 I found the following articles usefule while coding this up: 
 
 https://kentcdodds.com/blog/how-to-use-react-context-effectively
-\n https://flexiple.com/react/provider-pattern-with-react-context-api
+
+https://flexiple.com/react/provider-pattern-with-react-context-api
